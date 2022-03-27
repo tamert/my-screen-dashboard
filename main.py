@@ -112,7 +112,7 @@ def resize_bg(events):
 
 def refresher(theme, config):
     drawer(theme, config)
-    threading.Timer(10, refresher).start()
+    threading.Timer(10, refresher, [theme, config]).start()
 
 
 @click.group()
