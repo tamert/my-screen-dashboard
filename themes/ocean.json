@@ -1,0 +1,11 @@
+{
+  "name": "ocean",
+  "version": "1.0.0",
+  "x": 20,
+  "padding": 20,
+  "colors": {
+    "primary" : "rgb(105, 195, 246)",
+    "second" : "rgb(53, 60, 121)",
+    "last" : "rgb(145, 130, 12)"
+  }
+}

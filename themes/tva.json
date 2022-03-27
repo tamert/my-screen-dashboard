@@ -1,0 +1,11 @@
+{
+  "name": "tva",
+  "version": "1.0.0",
+  "x": 40,
+  "padding": 30,
+  "colors": {
+    "primary" : "rgb(0, 2, 21)",
+    "second" : "rgb(248, 134, 30)",
+    "last" : "rgb(248, 134, 30)"
+  }
+}
